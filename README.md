@@ -3,7 +3,7 @@
 ### - Best regards, Jens
 
 ### Introduction
-###_______________________________________________________________________
+###_____________________________________________________________________
 This second programming assignment will require you to write an R
 function is able to cache potentially time-consuming computations. For
 example, taking the mean of a numeric vector is typically a fast

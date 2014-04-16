@@ -1,3 +1,7 @@
+## Information for fellow Courserians:
+### Please see the 'cachematrix.R' file, to see my code for the peer assignment.
+### - Best regards, Jens
+
 ### Introduction
 
 This second programming assignment will require you to write an R

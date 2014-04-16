@@ -1,7 +1,7 @@
 ## Information for fellow Courserians:
 ### Please see the 'cachematrix.R' file, to see my code for the peer assignment.
 ### - Best regards, Jens
-###_____________________________________________________________________
+###________________________________________________
 
 ### Introduction
 
